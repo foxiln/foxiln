@@ -2,9 +2,9 @@
   <img width="400" height="350" src="https://64.media.tumblr.com/d7e8de669122df1e38e7e8a165f249fc/21203098488fca9d-a6/s540x810/7e59441200c1514fd43d9cdf727d9fb6be96b6d7.pnj">
 </p> 
 
-${\textsf{\color{#818f21}"Are you saying that because he's a sloth, he can't be fast?"}}$
+${\textsf{\color{#818f21}New Person, Same Old Mistakes}}$
 
-<a href="https://foxiln.atabook.org/">atabook</a> ${\textsf{\color{#FAF0DE}∘}}$
+${\textsf{\color{#9B6528}「}}$ <a href="https://foxiln.atabook.org/">atabook</a> ${\textsf{\color{#FAF0DE}∶}}$ ${\textsf{\color{#6BA4C3}other links soon to be made}}$
 </a>
 <br></br><img src="https://komarev.com/ghpvc/?username=foxiln&label=pawpsicles&color=9B6528&base=1000000&style=for-the-badge">
 
