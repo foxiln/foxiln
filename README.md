@@ -3,6 +3,7 @@
 </p> 
 
 ${\textsf{\color{#818f21}New Person, Same Old Mistakes}}$
+${\textsf{\color{#818f21}entp}}$
 
 ${\textsf{\color{#9B6528}「}}$ <a href="https://foxiln.atabook.org/">atabook</a> ${\textsf{\color{#FAF0DE}∶}}$ ${\textsf{\color{#6BA4C3}other links soon to be made}}$
 </a>
