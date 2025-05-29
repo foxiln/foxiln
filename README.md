@@ -6,7 +6,7 @@ ${\textsf{\color{#967673}16}}$
 
 ${\textsf{\color{#643820}ENTP 7w6}}$
 
-${\textsf{\color{#9B6528}}}$</a> ${\textsf{\color{#FAF0DE}∶}}$ ${\textsf{\color{#BF584D}links soon}}$
+${\textsf{\color{#9B6528}}}$</a> ${\textsf{\color{#FAF0DE}∶}}$ ${\textsf{\color{#BF584D} }}$ <a href="https://rentry.co/foxilsm">rentry</a> 
 </a>
 <br></br><img src="https://komarev.com/ghpvc/?username=foxiln&label=&color=9B6528&base=1168306&style=for-the-badge">
 
