@@ -1,5 +1,5 @@
 
-<br></br><img src="https://komarev.com/ghpvc/?username=foxiln&label=Egg+Benedicts&color=9B6528&base=1168306&style=flat">
+<br></br><img src="https://komarev.com/ghpvc/?username=foxiln&label=Egg+Benedicts&color=661116&base=1168306&style=flat">
 
 <a href="https://rentry.co/foxilsm">rentry</a>
 
